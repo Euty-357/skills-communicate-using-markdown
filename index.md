@@ -10,3 +10,7 @@ a = 5
 b = 6
 sum = a + b
 ```
+### Tasklist
+- [x] Start Github course.
+- [ ] Complete course.
+- [ ] Get Microsoft voucher.
